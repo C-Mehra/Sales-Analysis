@@ -1,1 +1,27 @@
-[README (1).md](https://github.com/C-Mehra/Sales-Analysis/files/13850451/README.1.md)
+Project Title
+A brief description of what this project does and who it's for
+
+Meriskill Sales Analysis
+Purpose
+Analyze sales data to identify trends, top-selling products, and revenue metrics for business decision-making.
+
+Description
+In this project, you will dive into a large sales dataset to extract valuable insights. You will explore sales trends over time, identify the best-selling products, calculate revenue metrics such as total sales and profit margins, and create visualizations to present your findings effectively. This project showcases your ability to manipulate and derive insights from large datasets, enabling you to make data-driven recommendations for optimizing sales strategies.
+
+Report Snapshot (Power BI DESKTOP)
+Analysis Dashboard
+
+Insights
+Geographical Orders: The majority of orders come from the states of New York, California and Florida.
+
+Profitability Trends: The overall profit margin by taking into consideration the sales of all the products is 58.83%.
+
+Peak Ordering Month: December sees the most orders assuming the holiday season plays a huge role.
+
+Top Revenue Product: We found out that Macbook Pro Laptops are the biggest revenue generators for the company.
+
+Highest selling Products: AAA batteries, AA batteries, USB C cables, Lightening cables and wired headsets are the most selling products by numbers.
+
+Inventory Recommendation: We recommend to keep more inventory of the above mentioned products since our analysis says that these will stay in demand for the coming fiscal year.
+
+Weekly sales: We see that Tuesdays bring in the most revenue in most weeks.
